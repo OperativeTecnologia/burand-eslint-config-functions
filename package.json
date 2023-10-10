@@ -1,20 +1,17 @@
 {
   "name": "@burand/eslint-config-functions",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "type": "commonjs",
   "main": "index.js",
-  "engines": {
-    "node": "18"
-  },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
-    "@typescript-eslint/parser": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "eslint": "^8.0.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.0.0",
+    "eslint-config-prettier": "^9.0.0",
     "eslint-import-resolver-typescript": "^3.0.0",
     "eslint-plugin-import": "^2.0.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.0.0"
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.0"
   }
 }
